@@ -1,0 +1,85 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.endterm"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS" />
+11-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:6:5-8:47
+11-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:7:9-62
+12    <uses-permission android:name="android.permission.REAL_GET_TASKS" />
+12-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:9:5-11:47
+12-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:10:9-57
+13    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+13-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:12:5-81
+13-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:12:22-78
+14    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+14-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:13:5-78
+14-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:13:22-75
+15
+16    <application
+16-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:15:5-42:19
+17        android:allowBackup="true"
+17-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:16:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.1.0] C:\Users\leesum\.gradle\caches\transforms-2\files-2.1\1cd7eff88f5e86d0249af2958bf465f0\core-1.1.0\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@drawable/icon3"
+20-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:17:9-39
+21        android:label="@string/app_name"
+21-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:18:9-41
+22        android:roundIcon="@drawable/icon3"
+22-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:19:9-44
+23        android:supportsRtl="true"
+23-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:20:9-35
+24        android:testOnly="true"
+25        android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
+25-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:21:9-68
+26        <service android:name="com.example.endterm.service.Notification" />
+26-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:24:9-57
+26-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:24:18-54
+27        <service android:name="com.example.endterm.service.LocalService" />
+27-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:25:9-57
+27-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:25:18-54
+28        <service
+28-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:26:9-28:72
+29            android:name="com.example.endterm.service.JobHandlerService"
+29-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:27:13-54
+30            android:permission="android.permission.BIND_JOB_SERVICE" />
+30-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:28:13-69
+31        <service
+31-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:29:9-31:41
+32            android:name="com.example.endterm.service.RemoteService"
+32-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:30:13-50
+33            android:process=":remote" />
+33-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:31:13-38
+34
+35        <activity android:name="com.example.endterm.DetailActivity" />
+35-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:33:9-52
+35-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:33:19-49
+36        <activity android:name="com.example.endterm.StartActivity" >
+36-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:34:9-40:20
+36-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:34:19-48
+37            <intent-filter>
+37-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:35:13-39:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:36:17-69
+38-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:36:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:38:17-77
+40-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:38:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity android:name="com.example.endterm.MainActivity" />
+43-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:41:9-50
+43-->D:\Android\project\EndTerm\app\src\main\AndroidManifest.xml:41:19-47
+44    </application>
+45
+46</manifest>

@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plane.png.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\drawable\\plane.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_ana.xml.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\layout\\fragment_ana.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail.xml.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_plan.xml.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\layout\\fragment_plan.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start.xml.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings_25.png.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\drawable\\settings_25.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.jpg.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\drawable\\icon.jpg"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_ana.xml.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\layout\\adapter_ana.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calendar_25_selected.png.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\drawable\\calendar_25_selected.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bookmark_25.png.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\drawable\\bookmark_25.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\drawable_question.png.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\drawable\\question.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add_plan.xml.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\layout\\fragment_add_plan.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\drawable_key.png.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\drawable\\key.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_user.xml.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\layout\\fragment_user.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon3.png.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\drawable-v24\\icon3.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon2.png.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\drawable\\icon2.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calendar_25.png.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\drawable\\calendar_25.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_home.xml.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\layout\\adapter_home.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.jpg.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings_25_selected.png.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\drawable\\settings_25_selected.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\EndTerm\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bookmark_25_selected.png.flat",
+        "source": "D:\\Android\\project\\EndTerm\\app\\src\\main\\res\\drawable\\bookmark_25_selected.png"
+    }
+]
